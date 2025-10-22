@@ -7,6 +7,9 @@
         <option value="$PROJECT_DIR$/userservice/pom.xml" />
         <option value="$PROJECT_DIR$/activity/activity/pom.xml" />
         <option value="$PROJECT_DIR$/activity_AI/activity_AI/pom.xml" />
+        <option value="$PROJECT_DIR$/congiServer/congiServer/pom.xml" />
+        <option value="$PROJECT_DIR$/apiGateway/apiGateway/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka/eureka/pom.xml" />
       </list>
     </option>
   </component>
