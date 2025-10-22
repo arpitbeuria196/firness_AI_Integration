@@ -1,4 +1,4 @@
-package com.fitness.activity_AI.Dto;
+package com.fitness.activity_AI.Entity;
 
 
 import lombok.Data;
